@@ -7,7 +7,6 @@ extern class Sprite3d extends Sprite {
 
 	function new();
 
-	function updateTransform():Void;
 	function updateTransform3d():Void;
 	function renderWebGL(renderer:Dynamic):Void;
 	static function fromFrame(frameId:String):Sprite3d;

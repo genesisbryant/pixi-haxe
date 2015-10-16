@@ -2,7 +2,7 @@ package pixi.flip;
 
 import pixi.core.sprites.Sprite;
 
-@:native("PIXI.Sprite3d")
+@:native("PIXI.flip.Sprite3d")
 extern class Sprite3d extends Sprite {
 
 	function new();

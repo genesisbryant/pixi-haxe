@@ -2,7 +2,7 @@ package pixi.flip;
 
 import pixi.core.display.Container;
 
-@:native("PIXI.Container3d")
+@:native("PIXI.flip.Container3d")
 extern class Container3d extends Container {
 
 	function new();

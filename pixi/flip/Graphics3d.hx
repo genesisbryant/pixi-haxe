@@ -2,7 +2,7 @@ package pixi.flip;
 
 import pixi.core.graphics.Graphics;
 
-@:native("PIXI.Graphics3d")
+@:native("PIXI.flip.Graphics3d")
 extern class Graphics3d extends Graphics {
 
 	function new();
